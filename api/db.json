@@ -15,24 +15,6 @@
       "description": "it is so awesome",
       "userId": "106920755180060641217",
       "id": 3
-    },
-    {
-      "title": "unexpected behavior",
-      "description": "wow",
-      "userId": "106920755180060641217",
-      "id": 4
-    },
-    {
-      "title": "no",
-      "description": "no",
-      "userId": "106920755180060641217",
-      "id": 5
-    },
-    {
-      "title": "Me Streaming Component Reuse",
-      "description": "refactoring components",
-      "userId": "106920755180060641217",
-      "id": 6
     }
   ]
 }
